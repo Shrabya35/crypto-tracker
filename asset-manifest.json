@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/crypto-tracker/static/css/main.946b80ab.css",
+    "main.js": "/crypto-tracker/static/js/main.454312de.js",
+    "static/js/453.b3506562.chunk.js": "/crypto-tracker/static/js/453.b3506562.chunk.js",
+    "static/media/btcbundle.png": "/crypto-tracker/static/media/btcbundle.b5d1e9bcc79c85d6bdd9.png",
+    "static/media/btcbundle2.png": "/crypto-tracker/static/media/btcbundle2.2aff7c25b339cc458370.png",
+    "static/media/bitcoin.png": "/crypto-tracker/static/media/bitcoin.e146d46fb598ae0d8f43.png",
+    "static/media/etherium.png": "/crypto-tracker/static/media/etherium.c6cffe78f0c6abc85da9.png",
+    "index.html": "/crypto-tracker/index.html",
+    "main.946b80ab.css.map": "/crypto-tracker/static/css/main.946b80ab.css.map",
+    "main.454312de.js.map": "/crypto-tracker/static/js/main.454312de.js.map",
+    "453.b3506562.chunk.js.map": "/crypto-tracker/static/js/453.b3506562.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.946b80ab.css",
+    "static/js/main.454312de.js"
+  ]
+}
